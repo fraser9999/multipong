@@ -24,10 +24,10 @@ A classic Pong game in Python with the following features:
 ##Starting the game
 
    - python multipong.py
-   - **Restart** after Game Over using the spacebar (`SPACE`)
-   - **Countdown preparation phase** of 5 seconds before the start of the    game
-   Paddle** use: Arrow Keys
-  **Spacebar: Restart after Game Over
+   - Restart** after Game Over using the spacebar (`SPACE`)
+   - Countdown preparation phase** of 5 seconds before the start of the    game
+   - Paddle** use: Arrow Keys
+   - Spacebar: Restart after Game Over
 
 
 ## Installation
@@ -52,6 +52,7 @@ pong-pygame/
             highscore.txt # is automatically created on first game start
        
             **highscore.txt – automatically created, saves the high score
+
 
 
 
