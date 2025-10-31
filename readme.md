@@ -4,10 +4,10 @@
 A classic Pong game in Python with the following features:
    
    - Timer that adds a new ball **every X seconds**
-   **pip install -r requirements.txt
-   **Left/Right Arrow Keys: Move Paddle
-   **requirements.txt – required Python libraries
-   **python pong.py
+   - pip install -r requirements.txt
+   - Left/Right Arrow Keys: Move Paddle
+   - requirements.txt – required Python libraries
+   - python pong.py
 ---
 
 ## Install dependencies:
@@ -45,4 +45,5 @@ pong-pygame/
             highscore.txt # is automatically created on first game start
        
             **highscore.txt – automatically created, saves the high score
+
 
